@@ -7,3 +7,5 @@ DOMAIN-SUFFIX,genmillscn.com,DIRECT
 DOMAIN-SUFFIX,dingtalk.com,DIRECT
 DOMAIN,www.bing.com,DIRECT
 DOMAIN-SUFFIX,gstatic.com,PROXY
+DOMAIN,static-tracking.klaviyo.com,PROXY
+DOMAIN,www.facebook.com,PROXY
