@@ -1,0 +1,9 @@
+#!name=sky_list
+#!desc=Personal settings
+[Rule]
+DOMAIN-SUFFIX,yunat.com,DIRECT
+DOMAIN-SUFFIX,shuyun.com,DIRECT
+DOMAIN-SUFFIX,genmillscn.com,DIRECT
+DOMAIN-SUFFIX,dingtalk.com,DIRECT
+DOMAIN,www.bing.com,DIRECT
+DOMAIN-SUFFIX,gstatic.com,PROXY
