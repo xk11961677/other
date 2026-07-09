@@ -1,11 +1,14 @@
 #!name=sky_list
 #!desc=Personal settings
+
 [Rule]
+DST-PORT,53,REJECT
 DOMAIN-SUFFIX,yunat.com,DIRECT
 DOMAIN-SUFFIX,shuyun.com,DIRECT
 DOMAIN-SUFFIX,genmillscn.com,DIRECT
 DOMAIN-SUFFIX,dingtalk.com,DIRECT
-DOMAIN,www.bing.com,DIRECT
+DOMAIN-SUFFIX,bing.com,DIRECT
+DOMAIN-SUFFIX,proxy-cheap.com,DIRECT
 DOMAIN-SUFFIX,gstatic.com,PROXY
-DOMAIN,static-tracking.klaviyo.com,PROXY
-DOMAIN,www.facebook.com,PROXY
+DOMAIN-SUFFIX,todetect.cn,PROXY
+DOMAIN,www.wd-gold.net,PROXY
