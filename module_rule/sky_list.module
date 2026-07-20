@@ -2,7 +2,6 @@
 #!desc=Personal settings
 
 [Rule]
-#DST-PORT,53,REJECT
 DOMAIN-SUFFIX,yunat.com,DIRECT
 DOMAIN-SUFFIX,shuyun.com,DIRECT
 DOMAIN-SUFFIX,genmillscn.com,DIRECT
@@ -10,4 +9,3 @@ DOMAIN-SUFFIX,bing.com,DIRECT
 DOMAIN-SUFFIX,dmit.io,DIRECT
 DOMAIN,www.wd-gold.net,PROXY
 IP-CIDR,179.253.228.169/32,DIRECT,no-resolve
-IP-CIDR,223.223.223.5/32,REJECT,no-resolve
