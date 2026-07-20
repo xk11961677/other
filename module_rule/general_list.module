@@ -2,7 +2,7 @@
 #!desc=General settings
 
 [General]
-dns-server = https://1.1.1.1/dns-query
+dns-server = https://1.1.1.1/dns-query#proxy
 fallback-dns-server = https://cloudflare-dns.com/dns-query#proxy
 bypass-system = true
 ipv6 = false
