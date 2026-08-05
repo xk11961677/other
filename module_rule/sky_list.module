@@ -12,4 +12,3 @@ DOMAIN-SUFFIX,claude.ai,PROXY
 DOMAIN-SUFFIX,openai.com,PROXY
 DOMAIN-SUFFIX,chatgpt.com,PROXY
 DOMAIN,www.wd-gold.net,PROXY
-IP-CIDR,179.253.228.169/32,DIRECT,no-resolve
