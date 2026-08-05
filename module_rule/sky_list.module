@@ -12,3 +12,5 @@ DOMAIN-SUFFIX,claude.ai,PROXY
 DOMAIN-SUFFIX,openai.com,PROXY
 DOMAIN-SUFFIX,chatgpt.com,PROXY
 DOMAIN,www.wd-gold.net,PROXY
+DOMAIN,api.wd-purple.com,DIRECT
+DOMAIN,wd-purple.com,DIRECT
