@@ -8,9 +8,8 @@ DOMAIN-SUFFIX,genmillscn.com,DIRECT
 DOMAIN-SUFFIX,bing.com,DIRECT
 DOMAIN-SUFFIX,openai.com,PROXY
 DOMAIN-SUFFIX,chatgpt.com,PROXY
+DOMAIN-SUFFIX,wd-purple.com,DIRECT
 DOMAIN,www.wd-gold.net,PROXY
-DOMAIN,api.wd-purple.com,DIRECT
-DOMAIN,wd-purple.com,DIRECT
 
 # Claude 相关域名
 DOMAIN-SUFFIX,anthropic.com,PROXY
